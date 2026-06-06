@@ -1,0 +1,39 @@
+Id,SCHOOL_ID,PARENT_USER,PARENT_NAME,PARENT_EMAIL,STUDENT_NAME,LETTER,DISPOSITION,CREATED,UPDATED,UPDATED_BY
+108198094896905264984032581395778547187,365,COSTIBAICU1GMAILCOM,Baicu Constantin,costibaicu1@gmail.com,Baicu Costinel,"Here is the email:
+
+Subject: Application for Admission to Brooklyn Technical High School
+
+Dear Admissions Committee,
+
+I am writing to express my interest in seeking admission for my son, Baicu Costinel, to Brooklyn Technical High School. As a parent, I am impressed by the school's reputation for excellence in education and its commitment to providing a well-rounded learning experience.
+
+I believe that Brooklyn Technical High School would be an ideal fit for my son, and I would like to request consideration for his admission. Could you please provide me with information on the application process, including any required documents, deadlines, and entrance exams?
+
+I would appreciate any guidance you can offer to ensure a smooth application process. Please feel free to contact me if you require any additional information.
+
+Thank you for your time and consideration.
+
+Sincerely,
+
+Baicu Constantin  
+Parent of Baicu Costinel",APPLIED,2026-05-09T16:53:49,,
+109426294901975092469759683172879731223,404,COSTIBAICU1GMAILCOM,Baicu Constantin,costibaicu1@gmail.com,Anghel Bianca,"Here's an email to the school:
+
+Subject: Application for Admission for Anghel Bianca
+
+Dear Admissions Team at Midwood High School,
+
+I am writing to express my interest in securing a place for my daughter, Anghel Bianca, at Midwood High School. As a parent, I am impressed by the school's reputation for academic excellence and its commitment to providing a supportive learning environment.
+
+I would like to request an application for admission for the upcoming academic year. Could you please provide me with the necessary application forms and information about the admission process, including any required documents, deadlines, and fees?
+
+I would appreciate any guidance you can offer regarding the admission procedures and what we can expect during the application process. If there are any specific requirements or assessments that my daughter needs to complete, please let me know.
+
+Thank you for considering Anghel Bianca's application. I look forward to the opportunity to discuss her admission to Midwood High School further.
+
+Please feel free to contact me if you require any additional information.
+
+Sincerely,
+
+Baicu Constantin  
+Parent of Anghel Bianca",APPLIED,2026-05-21T10:54:34,,
