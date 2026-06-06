@@ -14,3 +14,28 @@ This application was developed during a collaborative hackathon between Romanian
 - Reports and dashboards
 
 ## Project Structure
+NYC-Schools-APEX/
+├── app/
+│   └── nyc-schools-apex-app.sql   # APEX application export
+├── data/
+│   ├── nyc_schools_apps.csv       # Applications data
+│   └── highschools.csv            # Schools data
+└── README.md
+
+## How to Import
+
+1. Log in to your Oracle APEX workspace
+2. Go to **App Builder** → **Import**
+3. Upload `app/nyc-schools-apex-app.sql`
+4. Follow the import wizard
+5. Import the data files via **SQL Workshop** → **Data Workshop** → **Data Load**
+
+## Technologies
+
+- Oracle APEX
+- Oracle SQL
+- AI / Generative AI (APEX AI Attributes)
+
+## Event
+
+Built at a NYC schools hackathon — international collaboration project.
